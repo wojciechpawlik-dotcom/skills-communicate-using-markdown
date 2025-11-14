@@ -15,3 +15,13 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```javascript
 var myVar = "Hello, World!";
 ```
+
+#### Adding a Task List
+- [x] List syntaxt text
+- [x] This item is done
+- [ ] This item is not done
+
+##### Adding another task list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
